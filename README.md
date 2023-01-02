@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MINTHANHTIKE25
+- 👋 Hi, I’m MINTHANHTIKE
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning java
 - 📫 How to reach me minthanhtike2552@gmail.com
