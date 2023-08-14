@@ -1,11 +1,12 @@
-- 👋 Hi, I’m MINTHANHTIKE
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning kotlin. 
-- 📫 How to reach me minthanhtike2552@gmail.com
+👋 Hi, I’m MINTHANHTIKE</h1>
+
+<p>👀 I’m interested in android development</p>
+
+<p>🌱 I’m currently learning kotlin.</p> 
+
+📫 How to reach me minthanhtike2552@gmail.com
 
 
-
-![DevelopersFunnyGIF](https://github.com/MINTHANHTIKE25/MINTHANHTIKE25/assets/121080658/647e520a-4bf9-4bea-8ccb-4cf2d731183b)
 
 
 
