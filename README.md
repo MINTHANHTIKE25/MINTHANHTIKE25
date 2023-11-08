@@ -2,7 +2,7 @@
 
 <p>👀 I’m interested in android development</p>
 
-<p>🌱 I’m currently learning kotlin.</p> 
+<p>🌱 I’m currently learning kotlin and jetpack compose.</p> 
 
 📫 How to reach me minthanhtike2552@gmail.com
 
