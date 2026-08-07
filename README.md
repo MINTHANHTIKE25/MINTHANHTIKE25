@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Min Than Htike</h1>
 <h3 align="center">A passionate Mobile developer from Myanmar(Burma)</h3>
-- 🌱 I’m currently learning **Android development latest update and flutter development**
 
-- 💬 Ask me about **android development and flutter development**
 
 - 📫 How to reach me **minthanhtike2552@gmail.com**
 
